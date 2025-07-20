@@ -1,0 +1,14 @@
+
+---
+
+## 🖼️ 8. `logo.png`
+> Add any PNG image and name it `logo.png`
+
+---
+
+## 🧭 Next Steps: How to Deploy
+
+### ✅ Local Testing
+```bash
+npm install
+node server.js
